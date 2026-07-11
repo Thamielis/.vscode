@@ -226,7 +226,7 @@
   // "git.branchProtection": ["main", "distro", "release/*"],
   // "git.branchProtectionPrompt": "alwaysCommitToNewBranch",
   // "git.branchRandomName.enable": false,
-  // "git.pullBeforeCheckout": true,
+  "git.pullBeforeCheckout": true,
   "git.mergeEditor": true,
   // "git.diagnosticsCommitHook.enabled": true,
   // "git.diagnosticsCommitHook.sources": {
