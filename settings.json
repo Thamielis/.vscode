@@ -7,7 +7,7 @@
     "editor.tabSize": 4,
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
-    "editor.fontFamily": "Cascadia Mono NF",
+    //"editor.fontFamily": "Cascadia Mono NF",
     // <--- Editor <---
     //
     // ---> Files --->
