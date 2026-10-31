@@ -85,7 +85,7 @@
     "gitlens.advanced.commits.delayLoadingFileDetails": true,
     //
     // ---> Git&GitHub --> GitLens --> AI --->
-    "gitlens.ai.model": "openai:o4-mini",
+    "gitlens.ai.model": "openai:gpt-5.6-luna",
     "gitlens.ai.vscode.model": "copilotcli:claude-haiku-4.5",
     //"gitlens.ai.experimental.composer.enabled": true,
     "gitlens.ai.largePromptWarningThreshold": 60000,
