@@ -39,23 +39,6 @@
     //
     // ---> Markdown --->
     //
-    // ---> Markdown/Linting --->
-    "markdownlint.config": {
-        "default": true,
-        "MD003": {
-            "style": "atx"
-        },
-        "MD013": false,
-        "MD024": false,
-        "MD029": {
-            "style": "one_or_ordered"
-        },
-        "MD033": false,
-        "MD034": false,
-        "no-hard-tabs": true
-    },
-    // <--- Markdown/Linting <---
-    //
     // <--- Markdown <---
     //
     // ---> Git&GitHub --->
